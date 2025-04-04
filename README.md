@@ -17,6 +17,7 @@ Ejercicios Básicos:
 16. Utiliza el método sqrt de la librería math para calcular la raíz cuadrada de un número. El resultado de la raíz cuadrada divídelo entre 2 de manera que se obtenga siempre un resultado entero. Haz que se muestre por pantalla los dos resultados de todo el proceso (raíz y división).
 17. Calcula el índice de masa corporal IMC de una persona, introduciendo por teclado el peso (en kg) y dividiendo por la estatura (en metros y elevado al cuadrado). Si el resultado es igual o superior a 25, debe aparecer un mensaje informando de sobrepeso.
 18. Cines Paradiso celebran su décimo aniversario y por ser un día especial realizan importantes descuentos. A los adultos se les aplicará un 10% de descuento y a los menores de 18 años un 50%. Si la entrada cuesta 12 euros, calcula el total a pagar introduciendo por teclado el número de menores y el número de adultos que asisten al cine.
+
 Ejercicios Condicionales:
 19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son iguales.
 20. A partir del ejercicio anterior, forzar que el usuario solo pueda introducir por teclado números entre 0 y 10.
@@ -34,6 +35,7 @@ Ejercicios Condicionales:
 32. Soluciona el problema del ejercicio anterior para que no distinga entre mayúsculas y minúsculas utilizando métodos de String.
 33. Programa un código que permita contar el número de vocales de la frase: "No hay mal que dure cien años".
 34. Corrige los errores o añade el código necesario para que el programa proporcionado funcione correctamente:
+
 Ejercicios Bucles:
 35. Programa que al introducir un número por teclado permita mostrar ese número de veces tu nombre.
 36. Programa que sume los n primeros números naturales. El valor de n lo introduce el usuario.
@@ -50,6 +52,7 @@ Ejercicios Bucles:
 47. Realiza un programa donde el usuario introduzca dos intervalos. Si el primer intervalo es menor que el segundo, la secuencia será incremental; si es mayor, la secuencia será en descenso.
 48. Realiza un programa donde el usuario introduzca una palabra "secreta". Utiliza la longitud de la palabra como criterio para establecer el número de intentos para adivinar si una letra está en la palabra.
 49. A partir del programa anterior, modifica el código para que al introducir una letra por teclado, indique las posiciones en las que aparece esa letra en la palabra secreta.
+
 Ejercicios Bucles While:
 50. Realiza un programa que de los buenos días 3 veces. Con While
 51. A partir del programa anterior, modifica el código para que sea el usuario quién introduzca el número de veces que desea que repita la frase Buenos días. Con WhileRealiza un programa que sume dos números enteros por teclado y presente el resultado por pantalla. El programa preguntará si deseas o no repetir la operación. Con While
@@ -70,6 +73,7 @@ Ejercicios Bucles While:
 66.  Repite el ejercicio 63. En lugar de ‘tirar’ 100 veces un dado, modifica el programa para ver cómo se comporta el dado en lanzamientos producidos durante aprox 3 segundos.
 67.  Realiza de nuevo el programa de Password (fase 2). El password debe tener las siguientes consideraciones: Debe tener una longitud entre 6 y 8 caracteres. Debe contener como mínimo: 2 números mayores o iguales que 1 y menor o igual que 5, 2 letras minúsculasm 1 letra mayúsculam 2 símbolos (*, _, @, &,/,#), 1 número mayor o igual que 6 y menor o igual que 5
 68.  Añade al ejercicio anterior la posibilidad de que el programa pregunte si deseas o no continuar introduciendo passwords. Ej. “¿Deseas introducir otro password s/n?
+
 Ejercicios Listas:
 69.  Realiza un programa que permita introducir una cantidad exacta de números, cada número se irá almacenando en una lista. El programa debe finalizar presentando por pantalla los números ordenados de menor a mayor. Crea un programa que permita introducir x palabras en una lista llamada lista1. Una vez introducidas, crea una nueva lista, llamada lista2, exactamente igual a lista1. Se deben mostrar por pantalla el contenidos de lista1 en orden ascendente y lista2 en orden descendente. Respeta el formato de entrada y salida tal y como se muestra en el testeo
 70.  Crea un programa que permita introducir x palabras en una lista llamada lista1. Una vez introducidas, crea una nueva lista, llamada lista2, exactamente igual a lista1. Se deben mostrar por pantalla el contenidos de lista1 en orden ascendente y lista2 en orden descendente. Respeta el formato de entrada y salida tal y como se muestra en el testeo.
