@@ -1,3 +1,4 @@
+Ejercicios Básicos:
 1. Programa que muestre por pantalla la frase “hello world”
 2. Programa que introduzca por teclado tres tipos de variables y se muestren por pantalla en el siguiente orden: número entero, texto y número decimal.
 3. Programa que pida dos números enteros y realice la suma correspondiente
