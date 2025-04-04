@@ -1,4 +1,8 @@
-Ejercicios Básicos:
+Ejercicios Iniciales: 1-18
+Ejercicios Condicionales: 19-34
+Ejercicios Bucles: 35-49
+Ejercicios Bucles While: 50-68
+Ejercicios Listas: 69-86
 1. Programa que muestre por pantalla la frase “hello world”
 2. Programa que introduzca por teclado tres tipos de variables y se muestren por pantalla en el siguiente orden: número entero, texto y número decimal.
 3. Programa que pida dos números enteros y realice la suma correspondiente
