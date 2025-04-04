@@ -17,41 +17,41 @@ Ejercicios Básicos:
 16. Utiliza el método sqrt de la librería math para calcular la raíz cuadrada de un número. El resultado de la raíz cuadrada divídelo entre 2 de manera que se obtenga siempre un resultado entero. Haz que se muestre por pantalla los dos resultados de todo el proceso (raíz y división).
 17. Calcula el índice de masa corporal IMC de una persona, introduciendo por teclado el peso (en kg) y dividiendo por la estatura (en metros y elevado al cuadrado). Si el resultado es igual o superior a 25, debe aparecer un mensaje informando de sobrepeso.
 18. Cines Paradiso celebran su décimo aniversario y por ser un día especial realizan importantes descuentos. A los adultos se les aplicará un 10% de descuento y a los menores de 18 años un 50%. Si la entrada cuesta 12 euros, calcula el total a pagar introduciendo por teclado el número de menores y el número de adultos que asisten al cine.
-
 Ejercicios Condicionales:
-19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son iguales.
-20. A partir del ejercicio anterior, forzar que el usuario solo pueda introducir por teclado números entre 0 y 10.
-21. Programa que calcula una ecuación de segundo grado. Controla que el valor de la raíz cuadrada no dé un valor negativo.
-22. Programa que al introducir una nota por teclado te diga si has aprobado o suspendido. Si la nota es menor de un 5 es suspenso, y si la nota es 5 o mayor estás aprobado.
-23. Modifica el programa anterior para establecer si la nota es un excelente (8.5 a 10), un notable (>=6.5 - <8.5), satisfactorio (<6.5 - 5), o insuficiente (<5). Controla que la nota introducida esté entre 0 y 10. Utilizar elif sin operadores lógicos.
-24. Corrige los errores del siguiente código para que se ejecute correctamente:
-25. Repite el programa número 23 pero utilizando operadores lógicos.
-26. Realiza un programa que, al introducir una letra por teclado, indique si está o no en mayúscula, utilizando dos if para establecer True o False a la condición.
-27. Mejora el programa anterior para controlar que el valor introducido sea una letra y, en caso de introducir un número, muestre un aviso por pantalla.
-28. Mejora el programa anterior para controlar también la introducción de símbolos. Utiliza elif.
-29. Busca en Internet qué función permite obtener la longitud de un String y realiza un programa que, al introducir una frase, devuelva su longitud.
-30. Realiza un programa que controle si la longitud de una frase introducida por teclado es igual, menor, o mayor de 11 caracteres. Utiliza elif.
-31. Asigna a una variable de texto la siguiente frase: "A quién madruga Dios ayuda". Comprueba si existen las siguientes palabras mostrando por pantalla la posición de su índice.
-32. Soluciona el problema del ejercicio anterior para que no distinga entre mayúsculas y minúsculas utilizando métodos de String.
-33. Programa un código que permita contar el número de vocales de la frase: "No hay mal que dure cien años".
-34. Corrige los errores o añade el código necesario para que el programa proporcionado funcione correctamente:
 
+20. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son iguales.
+21. A partir del ejercicio anterior, forzar que el usuario solo pueda introducir por teclado números entre 0 y 10.
+22. Programa que calcula una ecuación de segundo grado. Controla que el valor de la raíz cuadrada no dé un valor negativo.
+23. Programa que al introducir una nota por teclado te diga si has aprobado o suspendido. Si la nota es menor de un 5 es suspenso, y si la nota es 5 o mayor estás aprobado.
+24. Modifica el programa anterior para establecer si la nota es un excelente (8.5 a 10), un notable (>=6.5 - <8.5), satisfactorio (<6.5 - 5), o insuficiente (<5). Controla que la nota introducida esté entre 0 y 10. Utilizar elif sin operadores lógicos.
+25. Corrige los errores del siguiente código para que se ejecute correctamente:
+26. Repite el programa número 23 pero utilizando operadores lógicos.
+27. Realiza un programa que, al introducir una letra por teclado, indique si está o no en mayúscula, utilizando dos if para establecer True o False a la condición.
+28. Mejora el programa anterior para controlar que el valor introducido sea una letra y, en caso de introducir un número, muestre un aviso por pantalla.
+29. Mejora el programa anterior para controlar también la introducción de símbolos. Utiliza elif.
+30. Busca en Internet qué función permite obtener la longitud de un String y realiza un programa que, al introducir una frase, devuelva su longitud.
+31. Realiza un programa que controle si la longitud de una frase introducida por teclado es igual, menor, o mayor de 11 caracteres. Utiliza elif.
+32. Asigna a una variable de texto la siguiente frase: "A quién madruga Dios ayuda". Comprueba si existen las siguientes palabras mostrando por pantalla la posición de su índice.
+33. Soluciona el problema del ejercicio anterior para que no distinga entre mayúsculas y minúsculas utilizando métodos de String.
+34. Programa un código que permita contar el número de vocales de la frase: "No hay mal que dure cien años".
+35. Corrige los errores o añade el código necesario para que el programa proporcionado funcione correctamente:
 Ejercicios Bucles:
-35. Programa que al introducir un número por teclado permita mostrar ese número de veces tu nombre.
-36. Programa que sume los n primeros números naturales. El valor de n lo introduce el usuario.
-37. Programa que pregunte cuántas notas quieres introducir y para cada nota diga si estás aprobado o suspendido.
-38. A partir del programa anterior, establece los rangos para que el usuario no pueda introducir notas inferiores a 0 ni superiores a 10.
-39. Programa que pida n números y que, tras introducir el último número, muestre por pantalla el número total de positivos, negativos y ceros.
-40. Crea un programa que cuente todos los números pares hasta el número 50.
-41. Imprime el siguiente patrón utilizando un bucle for:
+
+36. Programa que al introducir un número por teclado permita mostrar ese número de veces tu nombre.
+37. Programa que sume los n primeros números naturales. El valor de n lo introduce el usuario.
+38. Programa que pregunte cuántas notas quieres introducir y para cada nota diga si estás aprobado o suspendido.
+39. A partir del programa anterior, establece los rangos para que el usuario no pueda introducir notas inferiores a 0 ni superiores a 10.
+40. Programa que pida n números y que, tras introducir el último número, muestre por pantalla el número total de positivos, negativos y ceros.
+41. Crea un programa que cuente todos los números pares hasta el número 50.
 42. Imprime el siguiente patrón utilizando un bucle for:
-43. Realiza un programa que recorra con un bucle for una palabra introducida por teclado y muestre por pantalla cada letra con su posición.
-44. Realiza un programa que recorra todos los números comprendidos de 0 a 100 realizando saltos de 3 en 3, mostrando el resultado en una línea con los números separados por comas.
-45. Realiza un programa que permita introducir una palabra por teclado y recorra el String distinguiendo vocales y consonantes.
-46. A partir del programa anterior, soluciona el error de sensibilidad a mayúsculas/minúsculas para que el resultado sea coherente.
-47. Realiza un programa donde el usuario introduzca dos intervalos. Si el primer intervalo es menor que el segundo, la secuencia será incremental; si es mayor, la secuencia será en descenso.
-48. Realiza un programa donde el usuario introduzca una palabra "secreta". Utiliza la longitud de la palabra como criterio para establecer el número de intentos para adivinar si una letra está en la palabra.
-49. A partir del programa anterior, modifica el código para que al introducir una letra por teclado, indique las posiciones en las que aparece esa letra en la palabra secreta.
+43. Imprime el siguiente patrón utilizando un bucle for:
+44. Realiza un programa que recorra con un bucle for una palabra introducida por teclado y muestre por pantalla cada letra con su posición.
+45. Realiza un programa que recorra todos los números comprendidos de 0 a 100 realizando saltos de 3 en 3, mostrando el resultado en una línea con los números separados por comas.
+46. Realiza un programa que permita introducir una palabra por teclado y recorra el String distinguiendo vocales y consonantes.
+47. A partir del programa anterior, soluciona el error de sensibilidad a mayúsculas/minúsculas para que el resultado sea coherente.
+48. Realiza un programa donde el usuario introduzca dos intervalos. Si el primer intervalo es menor que el segundo, la secuencia será incremental; si es mayor, la secuencia será en descenso.
+49. Realiza un programa donde el usuario introduzca una palabra "secreta". Utiliza la longitud de la palabra como criterio para establecer el número de intentos para adivinar si una letra está en la palabra.
+50. A partir del programa anterior, modifica el código para que al introducir una letra por teclado, indique las posiciones en las que aparece esa letra en la palabra secreta.
 
 Ejercicios Bucles While:
 50. Realiza un programa que de los buenos días 3 veces. Con While
